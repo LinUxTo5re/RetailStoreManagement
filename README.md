@@ -1,10 +1,10 @@
-# RetailStoreManagement
+# Retail Store Management Using C#/MVVM/WPF
 Managing All Retail Store Activities such as Dashboard, Inventory, Supplier Details, Store Details, Sales and Purchases Records, User Management etc.<br>
 It's a Small POC Type Project Created By Me And My Team Member Using C#, WPF, MVVM etc.<br>
 Using This small POC, User can handle their Store's Inventory, Store Details, Daily/Weekly Sales and Purchases etc.<br>
 *Hope, you'll love it.*
 
-# Technologies that have used
+# Technologies that have been used
 - C#
 - MVVM
 - Microsoft Sql Server
